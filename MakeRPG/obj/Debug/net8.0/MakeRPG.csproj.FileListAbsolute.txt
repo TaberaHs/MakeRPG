@@ -1,0 +1,14 @@
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\bin\Debug\net8.0\MakeRPG.exe
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\bin\Debug\net8.0\MakeRPG.deps.json
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\bin\Debug\net8.0\MakeRPG.runtimeconfig.json
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\bin\Debug\net8.0\MakeRPG.dll
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\bin\Debug\net8.0\MakeRPG.pdb
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.AssemblyInfoInputs.cache
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.AssemblyInfo.cs
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.csproj.CoreCompileInputs.cache
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.dll
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\refint\MakeRPG.dll
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.pdb
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\MakeRPG.genruntimeconfig.cache
+D:\SpartaC#\TicTacToe\MakeRPG\MakeRPG\obj\Debug\net8.0\ref\MakeRPG.dll
